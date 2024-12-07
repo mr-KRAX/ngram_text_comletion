@@ -1,0 +1,10 @@
+*.py[cod]
+.web
+assets/external/
+__pycache__/
+*.db
+
+.DS_Store
+.ipynb_checkpoints
+.vscode
+.python-version
